@@ -97,4 +97,5 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     public ResourceServerProperties githubResource() {
         return new ResourceServerProperties();
     }
+
 }
