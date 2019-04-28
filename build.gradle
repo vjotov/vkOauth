@@ -18,6 +18,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 	implementation 'org.postgresql:postgresql'
 	implementation 'org.projectlombok:lombok'
+	compile 'com.vk.api:sdk:0.5.12'
 	implementation 'javax.xml.bind:jaxb-api'
 	implementation 'com.sun.xml.bind:jaxb-core'
 	implementation 'com.sun.xml.bind:jaxb-impl'
